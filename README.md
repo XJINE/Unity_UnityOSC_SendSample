@@ -1,4 +1,4 @@
-# Unity3D_UnityOSC_SendSample
+# Unity_UnityOSC_SendSample
 
 UnityOSC を使って OSC を送信するサンプルプロジェクトです。
 
